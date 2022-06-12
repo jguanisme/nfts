@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "rootDir": "./scripts",
+    "outDir": "./dist"
+  },
+  "include": [
+    "scripts/**/*"
+  ]
+}
